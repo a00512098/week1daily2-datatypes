@@ -1,7 +1,7 @@
 # week1daily2-datatypes
 In this task we made an investigation on Java Datatypes.
 
-###This investigation includes:
+### This investigation includes:
 1.  List
 2.  ArrayList
 3.  Difference in List vs ArrayList
