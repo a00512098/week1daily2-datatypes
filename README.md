@@ -1,4 +1,4 @@
-# week1daily2-datatypes
+# Week 1 Daily 2 - Java Datatypes
 In this task we made an investigation on Java Datatypes.
 
 ### This investigation includes:
